@@ -1,0 +1,13 @@
+{
+  "name": "@rodrigoehlers/fetch",
+  "version": "1.0.0",
+  "description": "An extension to the fetch api, which rejects on http error codes.",
+  "main": "fetch.js",
+  "scripts": {},
+  "author": "Rodrigo Ehlers",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rodrigoehlers/fetch.git"
+  },
+  "license": "MIT"
+}
