@@ -35,4 +35,4 @@ You can check browser support [here (MDN)](https://developer.mozilla.org/en-US/d
 
 ## License
 
-[MIT](https://github.com/rodrigoehlers/fetch/blob/master/LICENSE) - Made by [Rodrigo Ehlers](https://rodrigoehlers.com)
+[MIT](https://github.com/rodrigoehlers/fetch/blob/master/LICENSE.md) - Made by [Rodrigo Ehlers](https://rodrigoehlers.com)
