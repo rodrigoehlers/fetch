@@ -31,7 +31,7 @@ You'll see this in the console:
 
 This module depends on `fetch` and therefore **won't** natively work in nodejs.
 
-You can check browser support [here (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API#Browser_compatibility) or [here (canisue.com)](https://caniuse.com/#feat=fetch).
+You can check browser support [here (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API#Browser_compatibility) or [here (caniuse.com)](https://caniuse.com/#feat=fetch).
 
 ## License
 
