@@ -1,13 +1,24 @@
 {
   "name": "@rodrigoehlers/fetch",
   "version": "1.0.0",
-  "description": "An extension to the fetch api, which rejects on http error codes.",
+  "description": "An extension to fetch which makes it reject on HTTP error codes and throw an appropiate error.",
+  "keywords": [
+    "fetch",
+    "fetch-api",
+    "fetch-reject"
+  ],
+  "homepage": "https://github.com/rodrigoehlers/fetch/#readme",
+  "bugs": {
+    "url": "https://github.com/rodrigoehlers/fetch/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rodrigo Ehlers",
+    "url": "https://rodrigoehlers.com"
+  },
   "main": "fetch.js",
-  "scripts": {},
-  "author": "Rodrigo Ehlers",
   "repository": {
     "type": "git",
     "url": "git@github.com:rodrigoehlers/fetch.git"
-  },
-  "license": "MIT"
+  }
 }
