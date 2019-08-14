@@ -1,6 +1,6 @@
 {
   "name": "@rodrigoehlers/fetch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An extension to fetch which makes it reject on HTTP error codes and throw an appropiate error.",
   "keywords": [
     "fetch",
