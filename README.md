@@ -23,7 +23,8 @@ You'll see this in the console:
 ```js
 {
   code: 500,
-  status: 'Bad Request'
+  status: 'Bad Request',
+  body: ... // Optional response body
 }
 ```
 
